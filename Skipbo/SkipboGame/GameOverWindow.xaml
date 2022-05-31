@@ -1,0 +1,16 @@
+﻿<Window x:Class="SkipboGame.GameOverWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SkipboGame"
+        mc:Ignorable="d"
+        Title="Game Over" Height="380" Width="350" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Background="Green">
+        <StackPanel>
+            <TextBlock x:Name="StatusTextBox" FontSize="35" Text="" HorizontalAlignment="Center" Foreground="Yellow" TextWrapping="WrapWithOverflow"/>
+            <Button x:Name="MainMenuButton" Margin="0,40,0,0" FontSize="50" Width="300" Content="Main Menu" Background="Yellow" Click="MainMenuButton_Click"/>
+            <Button x:Name="ExitButton" Margin="0,30" FontSize="50" Width="300" Content="Exit" Background="Yellow" Click="ExitButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

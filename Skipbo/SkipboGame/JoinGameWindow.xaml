@@ -1,0 +1,33 @@
+﻿<Window x:Class="SkipboGame.JoinGameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SkipboGame"
+        mc:Ignorable="d"
+        Title="Join Skipbo Game" Height="270" Width="500" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Background="Green">
+        <StackPanel HorizontalAlignment="Center">
+            <Label Content="Join a Skipbo Game" HorizontalAlignment="Center" FontSize="40" Margin="0,0,0,20" Foreground="Yellow"/>
+            <Grid HorizontalAlignment="Center" Margin="0,0,0,20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="220"/>
+                    <ColumnDefinition Width="250"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="10"/>
+                </Grid.RowDefinitions>
+
+                <Label FontSize="30" Content="Game Sessions:" HorizontalAlignment="Right" Foreground="Yellow"/>
+
+                <ComboBox x:Name="GameTagComboBox" Grid.Column="2" Width="250" SelectedIndex="0" DisplayMemberPath="Name" SelectedValuePath="Name" ItemsSource="{Binding GameTag}"
+                          FontSize="30" HorizontalContentAlignment="Center" DropDownOpened="GameTagComboBox_DropDownOpened" SelectionChanged="GameTagComboBox_SelectionChanged" Background="Yellow"/>
+            </Grid>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="JoinButton" FontSize="35" Content="Join" Width="120" Margin="0,0,30,0" Background="Yellow" Click="JoinButton_Click"/>
+                <Button x:Name="CancelButton" FontSize="35" Content="Cancel" Width="120" Background="Yellow" Click="CancelButton_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

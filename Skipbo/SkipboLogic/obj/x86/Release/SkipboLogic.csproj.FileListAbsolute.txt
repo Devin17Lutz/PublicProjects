@@ -1,0 +1,6 @@
+E:\Game Projects\CardGames\Skipbo\SkipboLogic\bin\x86\Release\SkipboLogic.dll
+E:\Game Projects\CardGames\Skipbo\SkipboLogic\bin\x86\Release\SkipboLogic.pdb
+E:\Game Projects\CardGames\Skipbo\SkipboLogic\obj\x86\Release\SkipboLogic.csproj.CoreCompileInputs.cache
+E:\Game Projects\CardGames\Skipbo\SkipboLogic\obj\x86\Release\SkipboLogic.dll
+E:\Game Projects\CardGames\Skipbo\SkipboLogic\obj\x86\Release\SkipboLogic.pdb
+E:\Game Projects\CardGames\Skipbo\SkipboLogic\obj\x86\Release\SkipboLogic.csproj.AssemblyReference.cache

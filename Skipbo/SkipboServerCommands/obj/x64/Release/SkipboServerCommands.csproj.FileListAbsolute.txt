@@ -1,0 +1,9 @@
+E:\Game Projects\CardGames\Skipbo\SkipboServerCommands\bin\x64\Release\SkipboServerCommands.dll
+E:\Game Projects\CardGames\Skipbo\SkipboServerCommands\bin\x64\Release\SkipboServerCommands.pdb
+E:\Game Projects\CardGames\Skipbo\SkipboServerCommands\bin\x64\Release\SkipboLogic.dll
+E:\Game Projects\CardGames\Skipbo\SkipboServerCommands\bin\x64\Release\SkipboLogic.pdb
+E:\Game Projects\CardGames\Skipbo\SkipboServerCommands\obj\x64\Release\SkipboServerCommands.csproj.AssemblyReference.cache
+E:\Game Projects\CardGames\Skipbo\SkipboServerCommands\obj\x64\Release\SkipboServerCommands.csproj.CoreCompileInputs.cache
+E:\Game Projects\CardGames\Skipbo\SkipboServerCommands\obj\x64\Release\SkipboServerCommands.csproj.CopyComplete
+E:\Game Projects\CardGames\Skipbo\SkipboServerCommands\obj\x64\Release\SkipboServerCommands.dll
+E:\Game Projects\CardGames\Skipbo\SkipboServerCommands\obj\x64\Release\SkipboServerCommands.pdb
