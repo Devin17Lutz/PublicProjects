@@ -1,0 +1,22 @@
+﻿  CommandHandler.cpp
+C:\Users\devin\OneDrive\Desktop\M14 Laptop Content\CST 211 (Data Structures)\L5 Devin Lutz\L5 Devin Lutz\CommandHandler.cpp(67,22): warning C4101: 'c': unreferenced local variable
+C:\Users\devin\OneDrive\Desktop\M14 Laptop Content\CST 211 (Data Structures)\L5 Devin Lutz\L5 Devin Lutz\CommandHandler.cpp(73,22): warning C4101: 'c': unreferenced local variable
+C:\Users\devin\OneDrive\Desktop\M14 Laptop Content\CST 211 (Data Structures)\L5 Devin Lutz\L5 Devin Lutz\Graph.h(513,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\devin\OneDrive\Desktop\M14 Laptop Content\CST 211 (Data Structures)\L5 Devin Lutz\L5 Devin Lutz\Graph.h(455): message : while compiling class template member function 'void Graph<std::string,std::string>::DisplayPath(Array<int> &,Array<int> &,V,V)'
+          with
+          [
+              V=std::string
+          ]
+C:\Users\devin\OneDrive\Desktop\M14 Laptop Content\CST 211 (Data Structures)\L5 Devin Lutz\L5 Devin Lutz\Graph.h(363): message : see reference to function template instantiation 'void Graph<std::string,std::string>::DisplayPath(Array<int> &,Array<int> &,V,V)' being compiled
+          with
+          [
+              V=std::string
+          ]
+C:\Users\devin\OneDrive\Desktop\M14 Laptop Content\CST 211 (Data Structures)\L5 Devin Lutz\L5 Devin Lutz\Graph.h(94): message : while compiling class template member function 'Graph<std::string,std::string>::Graph(const Graph<std::string,std::string> &)'
+C:\Users\devin\OneDrive\Desktop\M14 Laptop Content\CST 211 (Data Structures)\L5 Devin Lutz\L5 Devin Lutz\CommandHandler.cpp(24): message : see reference to function template instantiation 'Graph<std::string,std::string>::Graph(const Graph<std::string,std::string> &)' being compiled
+C:\Users\devin\OneDrive\Desktop\M14 Laptop Content\CST 211 (Data Structures)\L5 Devin Lutz\L5 Devin Lutz\CommandHandler.h(34): message : see reference to class template instantiation 'Graph<std::string,std::string>' being compiled
+C:\Users\devin\OneDrive\Desktop\M14 Laptop Content\CST 211 (Data Structures)\L5 Devin Lutz\L5 Devin Lutz\Graph.h(514,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Exception.cpp
+  main.cpp
+  Generating Code...
+  L5 Devin Lutz.vcxproj -> C:\Users\devin\OneDrive\Desktop\M14 Laptop Content\CST 211 (Data Structures)\L5 Devin Lutz\x64\Debug\L5 Devin Lutz.exe
