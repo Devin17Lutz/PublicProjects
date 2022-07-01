@@ -12,6 +12,18 @@
 	3) GameBoardWindow.xaml.cs
 *When first opened if you have errors, build the project
 
+#L1 Devin Lutz Project Notes
+* Lab Project in Data Structures class (C++ console program)
+* This program will play the game Alchemy. Need to fill all
+* the tiles in the array to gold. If you have three discards
+* you lose the game. For you to place a tile you need to have
+* a tile near it have the same color or same symbol or even a 
+* wild card.
+
+#L4 Devin Lutz Project Notes
+* Lab Project in Data Structures class (C++ console program)
+* This program demonstrates the functionality of an AVL tree.
+
 #L5 Devin Lutz Project Notes
 * Lab Project in Data Structures class (C++ console program)
 * This program will read a file formatted as start vertex,
@@ -21,11 +33,3 @@
 * start and end input. Once the start and end input vertexs are
 * inputed it will display the shortest path, the miles traveled,
 * and how long it will take to reach that location.
-
-#L1 Devin Lutz Project Notes
-* Lab Project in Data Structures class (C++ console program)
-* This program will play the game Alchemy. Need to fill all
-* the tiles in the array to gold. If you have three discards
-* you lose the game. For you to place a tile you need to have
-* a tile near it have the same color or same symbol or even a 
-* wild card.
